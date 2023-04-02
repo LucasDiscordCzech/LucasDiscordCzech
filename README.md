@@ -3,7 +3,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/862224570164314112)](https://discord.com/users/) 
 
 **My name is Lucas, with the discord username Lucas⚡#9650! 
-Here are some ideas to get you started:
+Here's what I'm up to:**
 
 - 🔭 I’m currently working on ... BoltBot⚡ (https://top.gg/bot/1071499268818485289)
 - 🌱 I’m currently learning ... JavaScript 
