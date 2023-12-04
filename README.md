@@ -73,7 +73,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1146949728236470292)](https://discord.com/users/1146949728236470292)
 
 ---
-
+# Thanks for Viewing 👍
 <p align="center">
-  <i>Thanks for browsing my profile! Feel free to use this `README.MD` for your own! 🚀</i>
+  <i>Feel free to use/copy this README.MD for your own one! 🚀</i>
 </p>
