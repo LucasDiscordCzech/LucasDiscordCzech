@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1146949837355483319/1181036932248121354/2db7ed04fc5f318f9d38bb95b7e2ebf6.png" alt="Profile Image" width="175" height="175">
+  <img src="https://komarev.com/ghpvc/?username=LucasDiscordCzech&style=flat-square&label=Profile+Views" alt="Profile Views Counter">
 </p>
 
 <h1 align="center">Hi there, I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
