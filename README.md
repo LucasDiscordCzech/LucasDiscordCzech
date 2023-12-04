@@ -13,7 +13,6 @@
   
   <a href="https://twitter.com/vibranq"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/vibranq?style=social">
   <img src="https://komarev.com/ghpvc/?username=LucasDiscordCzech&style=flat-square&label=Profile+Views" alt="Profile Views Counter">
-  </a>
 </p>
 
 # About Me 🚀 
