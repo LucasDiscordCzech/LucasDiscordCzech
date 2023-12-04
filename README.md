@@ -75,5 +75,5 @@
 ---
 
 <p align="center">
-  <i>Open to collaboration and exploration in tech. Let’s dive into the next big project together! 🚀</i>
+  <i>Thanks for browsing my profile! Feel free to use this `README.MD` for your own! 🚀</i>
 </p>
