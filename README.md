@@ -1,15 +1,15 @@
 <h1 align="center">Hi there, I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 
 <p align="center">
-  <a href="[Your Website Link]"><img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=&logoColor=white%22%20alt=%22Website"></a>
-  <a href="[Your LinkedIn]"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  <a href="[Your Discord]"><img src="https://img.shields.io/badge/Discord-%23.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://test.com"><img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=&logoColor=white%22%20alt=%22Website"></a>
+  <a href="@vibranq"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="czch#0"><img src="https://img.shields.io/badge/Discord-%23.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 <hr>
 
 ## 🚀 About Me
-👨‍💻 I'm currently working on [BoltBot⚡](Project Link)
+👨‍💻 I'm currently working on [BoltBot](https://test.com)
 
 🧠 I'm currently learning Hyperadvanced AI & Quantum Programming
 
@@ -56,9 +56,8 @@
 
 <p align="center">
 <a href="@lucasdiscord"><img src="https://img.icons8.com/color/48/000000/snapchat.png" width="10%"/></a>
-<a href="czch#0"><img src="https://img.icons8.com/fluent/48/000000/discord-logo.png" width="3.5%"/></a>
-<a href="lucasgamingczech@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%"/></a>
-<a href="[Your Blog]">🌐</a>
+<a href="czch#0"><img src="https://img.icons8.com/fluent/48/000000/discord-logo.png" width="10%"/></a>
+<a href="lucasgamingczech@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="10%"/></a>
 </p>
 
 ## 📝 Latest Discord Activity
