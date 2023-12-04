@@ -14,7 +14,13 @@
 </p>
 
 <p align="center">
-  I'm Lucas, 18 years old, enthusiastic about coding, especially in the realms of AI and Discord. Crafting intuitive bots and exploring the edge of AI is my passion. Let's connect and see what the future of tech holds for us!
+# About Me 🚀
+
+👋 Hi! I'm Lucas, 18 from the Czech Republic 🇨🇿. Obsessed with coding, AI, and Discord bots.
+
+🤖 Creating smart Discord bots and pushing AI limits is what I love to do. It's not just fun; I believe it's the future. 
+
+🌐 I really like making new friends and chatting. I also use Discord alot in my free time, feel free to DM me at any time!
 </p>
 
 ## 🎵 Now Jamming on Spotify
