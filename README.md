@@ -15,6 +15,7 @@
 
 # About Me 🚀 
 <p align="center">
+
 - 👋 Hi! I'm Lucas, 18 from the Czech Republic 🇨🇿. Obsessed with coding, AI, and Discord bots.
 
 - 🤖 Creating smart Discord bots and pushing AI limits is what I love to do. It's not just fun; I believe it's the future. 
