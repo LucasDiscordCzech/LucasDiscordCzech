@@ -13,14 +13,13 @@
   <a href="https://twitter.com/vibranq"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/vibranq?style=social"></a>
 </p>
 
+# About Me 🚀 
 <p align="center">
-# About Me 🚀
+- 👋 Hi! I'm Lucas, 18 from the Czech Republic 🇨🇿. Obsessed with coding, AI, and Discord bots.
 
-👋 Hi! I'm Lucas, 18 from the Czech Republic 🇨🇿. Obsessed with coding, AI, and Discord bots.
+- 🤖 Creating smart Discord bots and pushing AI limits is what I love to do. It's not just fun; I believe it's the future. 
 
-🤖 Creating smart Discord bots and pushing AI limits is what I love to do. It's not just fun; I believe it's the future. 
-
-🌐 I really like making new friends and chatting. I also use Discord alot in my free time, feel free to DM me at any time!
+- 🌐 I really like making new friends and chatting. I also use Discord alot in my free time, feel free to DM me at any time!
 </p>
 
 ## 🎵 Now Jamming on Spotify
