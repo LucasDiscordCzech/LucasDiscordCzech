@@ -26,9 +26,7 @@
 
 ## 🎵 Now Jamming on Spotify
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=[YourSpotifyUserName]&cover_image=true&theme=novatorem" alt="Spotify Now Playing">
-</p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316khv5oztd4bom3jrevhlc445uq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🤖 BoltBot⚡ Discord Bot
 
