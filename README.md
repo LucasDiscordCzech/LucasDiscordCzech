@@ -6,9 +6,9 @@
 <h3 align="center">Code Enthusiast | AI Hobbyist | Discord User</h3>
 
 <p align="center">
-  <a href="https://lucas-portfolio.com"><img src="https://img.shields.io/badge/My_Portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white" alt="Website"></a>
-  <a href="https://www.instagram.com/lucasdiscord"><img src="https://img.shields.io/badge/Follow_me_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.snapchat.com/add/czch0"><img src="https://img.shields.io/badge/Add_me_on_Snapchat-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white" alt="Snapchat"></a>
+  <a href="https://lucas-portfolio.io"><img src="https://img.shields.io/badge/My_Portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white" alt="Website"></a>
+  <a href="https://www.instagram.com/lucasdickcord"><img src="https://img.shields.io/badge/Follow_me_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.snapchat.com/add/lucasdiscord"><img src="https://img.shields.io/badge/Add_me_on_Snapchat-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white" alt="Snapchat"></a>
   <a href="https://discordapp.com/users/czch#0"><img alt="Discord" src="https://img.shields.io/badge/Chat_on_Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://twitter.com/vibranq"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/vibranq?style=social"></a>
 </p>
@@ -26,7 +26,6 @@
 ## 🎵 Now Jamming on Spotify
 
 <p align="center">
-  <!-- Spotify README integration - Replace '[YourSpotifyUserName]' with your Spotify username -->
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=[YourSpotifyUserName]&cover_image=true&theme=novatorem" alt="Spotify Now Playing">
 </p>
 
@@ -67,7 +66,7 @@
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white">
-  <!-- Add any additional badges of technologies and tools here -->
+  <img alt="OpenAI API" src="https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white">
 </p>
 
 ## 📬 Connect with Me
