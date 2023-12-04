@@ -75,5 +75,5 @@
 ---
 ## 👍 Thanks for Viewing 
 <p align="center">
-  <i>Feel free to use/copy this README.MD for your own one! 🚀</i>
+  <i>You're absolutely welcome to take this README.MD and make it yours! Go ahead and use or copy it for your own purposes! 🚀</i>
 </p>
