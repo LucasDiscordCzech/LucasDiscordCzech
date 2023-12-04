@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  Unleash the power of GPT-4 & DALL-E 3 on Discord with BoltBot⚡! Engage in seamless conversations, get instant assistance, and enjoy AI-powered experiences, all within your favorite chat. All for FREE!
+  Unleash the power of GPT-4 & DALL-E 3 on Discord with BoltBot⚡! Engage in seamless conversations, get instant assistance, and enjoy AI-powered experiences, all within your favorite chat. All for *FREE*!
 </p>
 
 ## 🔥 My Contribution Streak
@@ -69,11 +69,9 @@
   <img alt="OpenAI API" src="https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white">
 </p>
 
-## 📬 Connect with Me
+## 👾 My Discord Status
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LucasDiscordCzech&style=flat-square&label=Profile+Views" alt="Profile Views Counter">
-</p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1146949728236470292)](https://discord.com/users/1146949728236470292)
 
 ---
 
