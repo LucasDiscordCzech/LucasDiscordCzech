@@ -27,7 +27,7 @@
 ## 🤖 BoltBot⚡ Discord Bot
 
 <p align="center">
-  <img src="https://placehold.it/350x150" alt="BoltBot Image Placeholder">
+  <img src="https://assets-global.website-files.com/623b578041aa1f5fc6e3adc2/623cd760c8b26764b350c5f6_Scaling%20%26%20Automating%20Moderation%20and%20Community%20Support.svg" alt="BoltBot Image Placeholder">
   <br>
   <a href="[BoltBot Invite Link]">
     <img src="https://img.shields.io/badge/Invite-BoltBot⚡-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Invite BoltBot">
