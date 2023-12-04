@@ -11,7 +11,9 @@
   <a href="https://www.snapchat.com/add/lucasdiscord"><img src="https://img.shields.io/badge/Add_me_on_Snapchat-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white" alt="Snapchat"></a>
   <a href="https://discordapp.com/users/czch#0"><img alt="Discord" src="https://img.shields.io/badge/Chat_on_Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://twitter.com/vibranq"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/vibranq?style=social">
-  </a><img src="https://komarev.com/ghpvc/?username=LucasDiscordCzech&style=flat-square&label=Profile+Views" alt="Profile Views Counter"> 
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=LucasDiscordCzech&style=flat-square&label=Profile+Views" alt="Profile Views Counter">
+  </a>
 </p>
 
 # About Me 🚀 
